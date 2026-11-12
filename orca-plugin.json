@@ -1,9 +1,8 @@
 {
   "manifestVersion": 2,
   "id": "cfml",
-  "publisher": "cfmleditor",
   "name": "CFML",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ColdFusion (CFML) highlighting for tag templates, script components and .cfs files, with embedded CSS, JavaScript and SQL.",
   "license": "MIT",
   "repository": "https://github.com/cfmleditor/orca-cfml",
